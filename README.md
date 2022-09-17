@@ -1,4 +1,10 @@
 ## This Project Belong to Karan Saini. @805karansaini
+
+You Can View it at https://805karansaini.github.io/AQI_Predictor/ is a static page hosted with the help of github pages(only static pages can be hosted).
+So the above WebSite Wont Be able to Predict.
+But you can Clone the project in to Your PC and Run it locally.
+
+
 https://github.com/805karansaini  
 It was made as 3rd Year College Project.
 
@@ -9,6 +15,3 @@ It was made as 3rd Year College Project.
 
 • Model Used are Linear and Lasso Regression.
 
-https://805karansaini.github.io/AQI_Predictor/ is a static page hosted with the help of github pages(only static pages can be hosted).
-So the above WebSite Wont Be able to Predict.
-But you can Clone the project in to Your PC and Run it locally.

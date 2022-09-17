@@ -1,6 +1,6 @@
-# This Project Belong to Karan Saini. @805karansaini
-# https://github.com/805karansaini  
-## It was made as 3rd Year College Project.
+## This Project Belong to Karan Saini. @805karansaini
+https://github.com/805karansaini  
+It was made as 3rd Year College Project.
 
 # AQI_Predictor
 • It analyzes the Environment parameters like wind speed, humidity, etc in the New Delhi dataset.
